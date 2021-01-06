@@ -10,5 +10,5 @@ services:
       - 5432:5432
       - 35729:35729
     volumes:
-      - ./src:/usr/src
-    working_dir: "/usr/src"
+      - ./src:/usr/app/spfx
+    working_dir: "/usr/app/spfx"
