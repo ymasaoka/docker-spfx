@@ -1,4 +1,4 @@
-FROM node:10.22.0
+FROM node:10.23.1
 
 EXPOSE 5432 4321 35729
 
