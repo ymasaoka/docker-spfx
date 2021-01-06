@@ -18,7 +18,7 @@ Create a development environment for SharePoint Framework (SPFx) with a Docker c
 # Creating SPFx Solution
 Create a SPFx solution using the docker-compose command.  
 
-    ```bash
-    docker-compose run --rm app yo @microsoft/sharepoint
-    ```
+```bash
+docker-compose run --rm app yo @microsoft/sharepoint
+```
 For more information on creating solution files, see [here](https://docs.microsoft.com/en-us/sharepoint/dev/spfx/sharepoint-framework-overview).  
